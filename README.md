@@ -1,2 +1,2 @@
-# ricaamor.github.io
+# rica-amor.github.io
 my personal site
